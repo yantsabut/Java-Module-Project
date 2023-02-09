@@ -43,7 +43,7 @@ public class Products {
 
         System.out.println("Вы купили:\n" + allProducts + "За " + String.format("%.2f", sumForall) + suf);
         System.out.println("Каждый из гостей должен заплатить: " + String.format("%.2f", forOneguest) + lastSuf);
-        System.out.println("Спасибо,что воспользовались нашим Калькулятором - счётчиком!");
+        System.out.println("Спасибо,что воспользовались нашим Калькулятором - счётчиком!!!!");
 
 
     }
